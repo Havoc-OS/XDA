@@ -1,0 +1,317 @@
+[CENTER][IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Havoc_Logo.png[/IMG][/CENTER]
+
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/About.png[/IMG]
+[INDENT][SIZE="3"][B]Havoc-OS 2.0 is based on AOSP, inspired by Google Pixel.
+Has a refined Material Design 2 UI by @SKULSHADY.
+So many features that you probably won't find in any ROM.
+All you can dream of and all you'll ever need.
+Just flash and enjoy...[/B][/SIZE][/INDENT]
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Features.png[/IMG]
+[HIDE][CODE]
+[SIZE="3"][SIZE="3"][B][U]General:[/B][/U][/SIZE]
+
+MD2 UI
+Rounded UI
+Pixel Lockscreen weather
+Substratum Support
+Compiled using SDCLANG
+OTA Support
+Signature Spoofing
+Micro-G support
+Lockscreen charging animation
+In-built Oneplus Camera & Gallery(Oneplus Device only)
+
+[SIZE="3"][B][U]Status Bar:[/B][/U][/SIZE]
+
+Double tap to sleep
+Statusbar brightness slide
+Quick & Smart pulldown
+Clock Settings
+Breathing Notifications
+Battery customization
+Battery bar
+Network traffic indicator
+Carrier label customization
+Notifications count
+volte icon toggle
+Bluetooth battery status
+Old Mobile type style
+4G/LTE icon switch
+Data disable icon toggle
+
+[SIZE="3"][B][U]Quick Settings:[/B][/U][/SIZE]
+
+Layout customization
+Brightness Slider customization
+  Auto Brightness icon
+  Bottom brightness slider
+Running services icon toggle
+
+[SIZE="3"][B][U]Interface:[/B][/U][/SIZE]
+
+Expanded Desktop
+Themes
+  Background Color(Light/Dark/Black)
+  Notification Color(Light/Dark/Black)
+  Accent Color Picker
+  Auto Night mode
+  QS Header Style
+  QS Tile Style
+Font Manager
+Rounded Corner adjuster
+Dashboard toggles
+
+[SIZE="3"][B][U]Ambient Display:[/B][/U][/SIZE]
+
+Now Playing
+Now Playing History
+Always On Display
+Ambient Display options(Tilt/Pick-up/Hand wave/Pocket)
+
+[SIZE="3"][B][U]Screen:[/B][/U][/SIZE]
+
+Smart Pixel
+Screen Stabilization
+
+[SIZE="3"][B][U]Buttons:[/B][/U][/SIZE]
+
+Volume Rockers
+  Switch to make ringtone volume slider default
+  Dialog timeout
+  Volume steps
+  Keyboard cursor control
+  Reorient on rotate
+  Music Control
+  Volume Rocker Wake
+  Volume keys call answer
+Power Button
+  Power Menu customization
+  Screen off power button torch
+Hardware keys
+  Disable keys
+  Swap keys
+  Backlight timeout
+  Backlight adjuster
+  Accidental touch toggle
+  Single/Double/Long-press button action
+  
+[SIZE="3"][B][U]Navigation bar:[/B][/U][/SIZE]
+
+Pixel animation
+One-handed mode
+Navbar Pulse
+Navbar button Swap
+Layout
+Extra button
+
+[SIZE="3"][B][U]Gestures:[/B][/U][/SIZE]
+
+System Gestures
+  Jump to camera
+  Prevent ringtone
+  Swipe up on home button
+  Full gesture mode
+Swipe to Screenshot
+Swipe Gestures
+Navigation
+  Swipe up gesture
+  Edge gesture
+  App Circle bar
+  Pie control
+  Gesture Anywhere
+  
+[SIZE="3"][B][U]Lockscreen:[/B][/U][/SIZE]
+
+Double tap to sleep
+Media cover art
+Lockscreen Visualizer
+Clock/Date Font stlye & Size
+Weather unit
+Unlocking
+  Pin Ripple
+  FP authentication vibrate
+  Face auto unlock
+  FP unlock on reboot
+  Pocket detect
+  Quick Unlock
+  Scramble layout
+  Direct unlock
+Disable Lockscreen Elements
+  Disable Quick Settings
+  Disable Statusbar
+Lockscreen charging info
+Hide lockscreen bottom elements
+Lockscreen shortcuts
+
+[SIZE="3"][B][U]Recents:[/B][/U][/SIZE]
+
+Recents style(Pie/Oreo/OmniSwitch)
+Oreo Recent customization
+  Clear all button
+  Memory bar
+Immersive recents
+Hide app from recents
+
+[SIZE="3"][B][U]Notifications:[/B][/U][/SIZE]
+
+Lights Customization
+  Charging light
+  notification light
+  Blink Flashlight on Call
+FC notification disable
+Disable Immersive messages
+Heads Up
+  Customization
+  Less Boring Heads Up
+Ticker Notification
+Ticker Animation
+Misc
+  Toast Icon togggle
+  Noisy Notification toggle
+  Force Expanded notification
+In-call Vibration customization
+
+[SIZE="3"][B][U]Animations:[/B][/U][/SIZE]
+
+Disable animation
+Animation Duration
+Animation customization
+List view animation
+QS tile animation
+Power menu animation
+Screen off animation
+Toast animation
+Scrolling Cache
+
+[SIZE="3"][B][U]System:[/B][/U][/SIZE]
+
+Signature Spoofing
+CPU info
+Privacy Guard
+Chooser Activity blacklist
+Burn-in protection
+
+[SIZE="3"][B][U]IME Settings:[/B][/U][/SIZE]
+
+Selector notification
+Auto keyboard rotation
+Disable fullscreen keyboard
+Show enter key
+
+[SIZE="3"][B][U]Battery Saving:[/B][/U][/SIZE]
+
+Sensor block per-package
+Alarm Blocker
+Wakelock Blocker
+Suspended Actions
+Doze settings
+
+[SIZE="3"][B][U]Miscellaneous:[/B][/U][/SIZE]
+
+MediaScanner behaviour on boot
+Wake up on charge
+Launch music app
+Screenshot type(Fullscreen/Partial)
+
+[SIZE="3"][B][U]Other Features:[/B][/U][/SIZE]
+
+Advanced Battery info
+Night Light brightness options
+On-the-go mode 
+Prevent Accidental wake-up
+Seperate ringtone for SIM1&2
+
+[SIZE="3"][B][U]QS Tile Shortcuts:[/B][/U][/SIZE]
+
+  Heads Up tile
+  Caffeine tile
+  Ring mode tile
+  CPU info tile
+  Suspended action tile
+  Smart pixel tile
+  Now playing tile
+  Ambient display tile
+  AOD tile
+  Screenrecord tile
+  Stabilization tile
+  Gaming Mode tile
+  Screenshot tile
+  Accidental touch tile
+  Alarm/Calc/Phone/Camera/Music tiles
+  Expanded Desktop tile
+  Havoc settings tile
+  HW key tile
+  LTE tile
+  Navbar tile
+  On the go tile
+  Pie control tile
+  Reboot tile
+  Sleep screen tile
+  Accent picker tile
+  Volume panel tile
+  High Brightness tile
+
+[SIZE="3"][B][U]Device:[/B][/U][/SIZE]
+
+Spectrum Power Profile
+Screen Calibration
+Custom Calibration
+High Brightness Mode
+Off screen gestures
+D2TW
+Slider customization
+Vibration strength slider[/SIZE][/CODE][/HIDE]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Screenshots.png[/IMG]
+[SIZE="3"][INDENT][url]https://photos.app.goo.gl/U8YDbDZCEVDQrSKU6[/url][/INDENT][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Team.png[/IMG]
+[INDENT][SIZE="3"][B]Lead Developers:[/B]
+[URL="https://forum.xda-developers.com/member.php?u=4608158"]ZeNiXxX (Viktor Hermann)[/URL]
+[URL="https://forum.xda-developers.com/member.php?u=7578917"]SKULSHADY (Anushek Prasal)[/URL]
+
+[B]Support Team:[/B]
+[URL="https://forum.xda-developers.com/member.php?u=9357295"]zzkW35 (Filippo Roggi)[/URL]
+[URL="https://forum.xda-developers.com/member.php?u=6040377"]theo.j22 (Tushar Jain)[/URL]
+[/SIZE][/INDENT]
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Donate.png[/IMG]
+[INDENT][SIZE="3"]If you like our work then please consider donating.
+[B]PayPal:[/B] [URL]https://www.paypal.me/vhermann[/URL]
+[B]UPI:[/B] anushekprasal@okhdfcbank[/SIZE][/INDENT]
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Links.png[/IMG]
+[INDENT][SIZE="3"][B]ROM: [/B][URL="https://sourceforge.net/projects/havoc-os/files/oneplus3/Havoc-OS-v2.0-20181123-oneplus3-Official.zip/download"]Havoc-OS-v2.0-20181123-oneplus3-Official.zip[/URL]
+[B]Changelog:[/B] [URL]https://goo.gl/33uzmx[/URL]
+[B]Firmware:[/B] [URL="https://goo.gl/EHZE4y"]OnePlus 3[/URL]   |   [URL="https://goo.gl/wufgJy"]OnePlus 3T[/URL]
+[B]Recovery:[/B] [URL="https://goo.gl/KqwKhL"]Official TWRP (Unified)[/URL]
+[B]Open GApps:[/B] [URL]http://opengapps.org[/URL]
+[B]Telegram Support Group: [/B][url]https://t.me/havocofficial[/url]
+[B]Telegram Announcements Channel: [/B][url]https://t.me/Havoc_OS[/url][/SIZE][/INDENT]
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Installation.png[/IMG]
+[INDENT][SIZE="3"][B]1.[/B] Download the ROM, Firmware and GApps from the links above.
+[B]2.[/B] Wipe System, Data, Dalvik, Cache.
+[B]3.[/B] Flash the latest Firmware for the respective device.
+[B]4.[/B] Flash the ROM and GApps.
+[B]5.[/B] Reboot and Enjoy. [/SIZE][/INDENT]
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Credits.png[/IMG]
+[INDENT][SIZE="3"]MSM-Xtended Team ([url]https://github.com/Project-Xtended[/url])
+Nitrogen Project ([url]https://github.com/nitrogen-project[/url])
+Crdroid ([url]https://github.com/crdroidandroid[/url])
+Omnirom ([url]https://github.com/omnirom[/url])
+And all the other Developers, Testers, Donators and Users.[/SIZE][/INDENT]
+
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Source.png[/IMG]
+[INDENT][SIZE="3"][url]https://github.com/Havoc-OS[/url]
+[url]https://github.com/Havoc-Devices[/url][/SIZE][/INDENT]
+
