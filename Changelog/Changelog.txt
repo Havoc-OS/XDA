@@ -1,13 +1,13 @@
 ====================
-     11-23-2018
+     06-07-2019
 ====================
 
 
-   * device/oneplus/oneplus3/
-0151c54 op3: Add Custom Calibration settings
-1e2d382 op3: Oneplus3Parts: Add Spectrum settings
-34cc632 op3: Oneplus3Parts: Refactor
-ab88d22 Revert "op3: Increase Call Volume"
+   * device/xiaomi/sirius/
+e05d89c sirius: Fix Vendor mismatch
+be5d26f sirius: Add dual LTE
+670aac9 sirius: Improve display
+bd6c153 sirius: SElinux switch to permissive
 
    * frameworks/base/
 409b4bc90eb Change default font name
