@@ -3,8 +3,8 @@
 
 
 [IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/About.png[/IMG]
-[INDENT][SIZE="3"][B]Havoc-OS 2.x is based on AOSP, inspired by Google Pixel.
-Has a refined Material Design 2 UI by @SKULSHADY.
+[INDENT][SIZE="3"][B]Havoc-OS 3.x is based on AOSP, inspired by Google Pixel.
+Has a refined Material Design 2 UI crafted by @SKULSHADY.
 So many features that you probably won't find in any ROM.
 All you can dream of and all you'll ever need.
 Just flash and enjoy...[/B][/SIZE][/INDENT]
@@ -16,6 +16,7 @@ Just flash and enjoy...[/B][/SIZE][/INDENT]
 
 MD2 UI
 Rounded UI
+Inbuilt GApps (optional)
 Enhanced QS Battery Estimation
 Pixel Lockscreen weather
 Substratum Support
