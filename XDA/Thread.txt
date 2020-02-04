@@ -3,8 +3,8 @@
 
 
 [IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/About.png[/IMG]
-[INDENT][SIZE="3"][B]Havoc-OS 2.x is based on AOSP, inspired by Google Pixel.
-Has a refined Material Design 2 UI by @SKULSHADY.
+[INDENT][SIZE="3"][B]Havoc-OS 3.x is based on AOSP, inspired by Google Pixel.
+Has a refined Material Design 2 UI crafted by @SKULSHADY.
 So many features that you probably won't find in any ROM.
 All you can dream of and all you'll ever need.
 Just flash and enjoy...[/B][/SIZE][/INDENT]
@@ -16,78 +16,54 @@ Just flash and enjoy...[/B][/SIZE][/INDENT]
 
 MD2 UI
 Rounded UI
+Inbuilt GApps (optional)
 Enhanced QS Battery Estimation
-Seekbars for Media Notifications
-QS Panel Inspired by OOS
 Pixel Lockscreen weather
 Substratum Support
 Compiled using SDCLANG
-OTA Support
 Signature Spoofing
 Micro-G support
 Lockscreen charging animation
-In-built Oneplus Camera & Gallery(Oneplus Device only)
 
 [SIZE="3"][B][U]Status Bar:[/B][/U][/SIZE]
 
-Double tap to sleep
-Statusbar brightness slide
-Quick & Smart pulldown
-Clock Settings
-Date Settings
-Battery Customization
-Battery Bar
-Network Traffic Indicator
-Carrier Label Customization
+Clock & Date Settings
+Custom Logo
+Brightness Control Gesture
+Double Tap to Sleep
+Network Traffic Indicator Settings
+Carrier Label Settings
+Battery Icon Style/Percentage Settings
 Status Bar Icons Toggle
-Notifications Count
-Bluetooth Battery Status
-VoLTE Icon Toggle
-Old Mobile Type Icon style
-4G/LTE icon switch
+HD/VoLTE Icon Toggle
+4G/LTE Icon Toggle
 Data Disable Icon Toggle
-Breathing Notifications
+Roaming Indicator Toggle
+Small Mobile Type Icon Toggle
+Bluetooth Battery Status Toggle
 
 [SIZE="3"][B][U]Quick Settings:[/B][/U][/SIZE]
 
-Layout customization
+Quick Pulldown
+Battery Estimates Toggle
+QS Customisations
+  Rows/Column
+  Tile Title
+  Vibrate on Touch
+  Background Opacity
+  Header Image
 Brightness Slider Customization
-  Brightness Slider On Bottom
+  Brightness Slider On Bottom/Top/Hidden
   Auto Brightness Icon
-  Auto Brightness Icon on Right
   Brightness Control Buttons
 QS Elements Customization
   Tile Tittle
   Vibrate On Touch
-  Information Header
 QS Footer Customization
-  VPN Warning
   Settings Icon
   Running Services Icon
   Edit Icon
   User Switcher Icon
-
-[SIZE="3"][B][U]Interface:[/B][/U][/SIZE]
-
-Themes
-  UI Style (Pixel/AOSP)
-  Background Color (Automatic/Light/Dark/Shady/Glassy)
-  Accent Color
-  Font Manager
-  App Icon Shape (Default/Square/Rounded Square/Squircle/Circle/Teardrop/Hexagon)
-QS Themes
-  QS Color based on Wallpaper
-  QS Color based on Accent
-  Custom QS Panel color 
-  QS Panel Opacity
-  QS Header Style (Black/Grey/Light Grey/Accent Based/Transparent)
-  Custom QS Header Image
-  QS Tile Style (Wavey/Cookie/Teardrop and 15+ More)
-Settings Customisation
-  Switch Appearance (OnePlus/Material Design 2)
-  Dashboard Icons (Round/Oreo/Round Accented/Round OnePlus Style/Oreo Style Accented)
-  Dashboard Conditions
-  Dashboard Suggestions
 
 [SIZE="3"][B][U]Ambient Display:[/B][/U][/SIZE]
 
@@ -95,240 +71,143 @@ Ambient Options
   Always On
   Always On When Charging
   Wakeup On New Notifications
+  Wakeup on New Music (Music Ticker)
   Sensor Based Screen Wakeup (Tilt/Hand Wave/Pocket)
-Battery Level at Botton while Dozing
-Music Ticker
+  Double Tap for Ambient Display
+Battery Level at Bottom
 
 [SIZE="3"][B][U]Screen:[/B][/U][/SIZE]
 
-Smart Pixel
-Screen Stabilization
-Corner Customisation
+Corners Customisation
   Rounded Corner Radius
   Corner Content Padding
-  Satus Bar Padding
+Legacy App Scaling
+  Force Higher Aspect Ratio for Selected Apps
 
 [SIZE="3"][B][U]Buttons:[/B][/U][/SIZE]
 
 Volume Rockers
-  Volume Panel On Left
-  Volume Dialog Timeout
   Volume Steps
-  Keyboard Cursor Control
   Swap Keys
-  Control Ring Volume
-  Control Music Volume
+  Long Press to Seek Tracks
+  Keyboard Cursor Control
   Volume Rocker Wakeup
   Volume keys Answer Call
 Power Button
   Power Menu Customization
-  End Call
-  Screen off power button torch
-Hardware keys
-  Disable Keys
-  Swap Keys
-  Backlight Brightness
-  Backlight Timeout
-  Backlight On Touch
-  Accidental Touch Protection
-Back/Home/Overview Button Customisation
-  Single Tap Action
-  Long Press Action
-  Double Tap Action
-  Home Button Use While Ringing Toggle
-  
+  Lockscreen Options
+    Visibility on the Lockscreen
+    Reboot
+    Advanced Reboot
+    Screenshot Option
+    Screenrecord
+  Screen-Off Torch
+    Double Tap Power Button
+    Long Press Power Button
+
 [SIZE="3"][B][U]Navigation bar:[/B][/U][/SIZE]
 
-Navigation Mode (Fling/SmartBar/Default)
-Stock Navigation Bar Customisation
-  Gestures
-  Pixel Animation
-  One-Handed Mode
-  Layout Customisation
-Smart Bar Customisation
-Fling Customisation
-Pulse Customisation
-Height Customisation (Potrait/Landscape)
+Layout
+  Normal
+  Compact
+  Left-leaning
+  Right-leaning
+Invert Layout
 
 [SIZE="3"][B][U]Gestures:[/B][/U][/SIZE]
 
-System Gestures
-  Jump to Camera
-  Long Press to Activate Torch
-  Swipe Up on Home Button
-  Full Gesture Mode
-  Double Tap on NavBar to Sleep
-  Prevent Ringing
-Swipe to Screenshot
-Swipe Gestures
-OnePlus Gestures
-Edge Gestures
-Pie Control
-  
+Jump To Camera
+System Navigation Settings
+Prevent Ringing Gesture
+Swipe To Screenshot
+Touchscreen Gestures
+
 [SIZE="3"][B][U]Lockscreen:[/B][/U][/SIZE]
 
 Double Tap to Sleep
 Media Cover Art
-Media Cover Art Filter (Blur/Greyscale/Accent tinted/Greyscale and Blurred)
+Media Cover Art Blur Level
 Music Visualiser
-Clock Widget Customisation
-Info Widget Customisation
-Weather Temperature Unit (Celsius/Fahrenheit)
 Unlocking
-  FP Authentication Vibration
-  Force FP Authentication
-  LS Dismissal On Face Unlock
   Pocket Detection
-  Allow FP in Pocket
+  FP Authentication Vibration
+  FP error Vibration
 Elements Customisation
+  Status Bar
   Quick Settings
-  Satus Bar
-  Multiuser Switch
-  Status Text
-  Charging Info
-  Left/Right Shortcuts
   Lock Icon
-Shortcuts
-  Mid-Screen Shortcuts
-  Bottom Shortucts
-Others
-  Pin Ripple
-  Scramble Layout
-  Quick Unlock
-  Auto Lock
-  Power Button Instantly Locks
-  Direct Unlock
-  Lockscreen Message
-
-[SIZE="3"][B][U]Recents:[/B][/U][/SIZE]
-
-Recents style (Quickstep/Oreo/Grid/Android Go/Slim)
-Oreo Recents Customization
-  Clear All Button
-  Clear All Button Location
-  Button Style
-  Memory Bar
-  Custom Styles
-  Icon Pack
-  Apps Blacklist
-  Immersive Mode (Full Screen/Status Bar/Navigation Bar -- Clock/Date)
-Slim Recents Customisation
+  Charging Info
 
 [SIZE="3"][B][U]Notifications:[/B][/U][/SIZE]
 
-Lights Customization
-  Charging Light
-  Notification Light
-  Blink Flashlight on Call
+Flashlight
+  Blink for incoming call
+  Blink for Call Waiting
+Screen 
+  Edge Lighting Customisation
 Status Bar
-  Heads Up Customisation
-  Ticker Customisation
-Disable/Enable FC Notifications
-Immersive Mode Messages
-Toast Icon
-Force Expanded Notifications
-Kill App Button
-Noisy Notifications
+  Heads Up
+System
+  FC Notifications
+Misc
+  Kill App Button
+  Noisy Notifications
 In-Call Vibration
   On Connect
   On Disconnect
   On Call Waiting
-  For Notifications
-
+  
 [SIZE="3"][B][U]Animations:[/B][/U][/SIZE]
 
-Disable animation
 Animation Duration
-Animation customization
-List view animation
-QS tile animation
-Power menu animation
-Screen off animation
-Toast animation
-
-[SIZE="3"][B][U]System:[/B][/U][/SIZE]
-
-Signature Spoofing
-CPU info
-Privacy Guard
-Burn-in protection
-
-[SIZE="3"][B][U]Input Method:[/B][/U][/SIZE]
-
-Selector notification
-Auto keyboard rotation
-Auto-Rotate Timeout
-Disable Full Screen Keyboard
-Show enter key
+System Animation customization
+QS Tile Animation Customisation
 
 [SIZE="3"][B][U]Battery Saving:[/B][/U][/SIZE]
 
-Sensor block per-package
-Alarm Blocker
-Wakelock Blocker
-Suspended Actions
-Doze settings
-Aggresive Battery
-  Aggresive Idle
-  Aggresive Standby
-  Auto-enable on Battery saver mode
-View CPU Frequency Stats
+Smart Pixels
+Suspen Actions
 
 [SIZE="3"][B][U]Miscellaneous:[/B][/U][/SIZE]
 
-MediaScanner behaviour on boot
-Scrolling Cache
-USB Configuration
+Gaming Mode
 Wake Up on Charge
-Launch Music App
-Screen Capture
-  Screenrecord Shortcut
-  Screenrecord Quality
-  Screenshot Shortcut
-  Screenshot Type (Full/Partial)
+Charging Animation
+Screenshot Type (Full/Partial)
 
 [SIZE="3"][B][U]Other Features:[/B][/U][/SIZE]
 
 LiveDisplay
-On-the-go mode 
-Prevent Accidental wake-up
 Seperate ringtone for SIM1&2
-Battery Charge Warning
-Smart Charge
-Advanced Battery Info
+Screen Refresh Rate (For Supported Devices)
+ALways On Display
+Theming
+  Styles and Wallpapers
+  Dark Theme
+  Accent Colour
+  Icon Shape
 
 [SIZE="3"][B][U]QS Tile Shortcuts:[/B][/U][/SIZE]
 
   Heads Up tile
   Caffeine tile
-  Ring mode tile
   CPU info tile
-  Suspended action tile
   Smart pixel tile
-  Ambient display tile
-  AOD tile
+  Live Caption
   Screenrecord tile
-  Stabilization tile
   Gaming Mode tile
   Screenshot tile
-  Accidental touch tile
-  Alarm/Calc/Phone/Camera/Music tiles
-  Expanded Desktop tile
-  Havoc settings tile
-  HW key tile
   LTE tile
-  Navbar tile
-  On the go tile
-  Pie control tile
-  Reboot tile
-  Sleep screen tile
-  Accent picker tile
-  Volume panel tile
-  High Brightness tile
+  Music Tile
+  LiveDisplay
+  Switch Data Card Tile
+  Reboot Tile
+  Reading Mode
+  Gaming Mode
+  Compass
   Sound Search
-  One Handed Mode Tile
   Compass Tile
-  App Picker Tile
+  
   Language[/SIZE][/CODE][/HIDE]
 [IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Screenshots.png[/IMG]
 [SIZE="3"][INDENT][url]https://photos.app.goo.gl/U8YDbDZCEVDQrSKU6[/url][/INDENT][/SIZE]
@@ -339,8 +218,8 @@ Advanced Battery Info
 [URL="https://forum.xda-developers.com/member.php?u=4608158"]ZeNiXxX (Viktor Hermann)[/URL]
 
 [B]Support Team:[/B]
-[URL="https://forum.xda-developers.com/member.php?u=6040377"]theo.j22 (Tushar Jain)[/URL]
 [URL="https://forum.xda-developers.com/member.php?u=9762074"]DankBoi (Apoorva Kr. Srivastava)[/URL]
+[URL="https://forum.xda-developers.com/member.php?u=6040377"]theo.j22 (Tushar Jain)[/URL]
 [/SIZE][/INDENT]
 
 
@@ -366,6 +245,7 @@ Advanced Battery Info
 [B]2.[/B] Wipe System, Data, Dalvik, Cache.
 [B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
 [B]4.[/B] Reboot and Enjoy.[/SIZE][/INDENT]
+[B] NOTE: These steps are only valid for A only devices.[/B]
 
 
 [IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Credits.png[/IMG]
