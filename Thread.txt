@@ -1,26 +1,30 @@
-[CENTER][IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Havoc_Logo.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Havoc_Logo.png[/IMG][/CENTER]
 
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/About.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/About.png[/IMG]
 [INDENT][SIZE="3"][B]Havoc-OS 3.x is based on AOSP, inspired by Google Pixel.
 Has a refined Material Design 2 UI crafted by @SKULSHADY.
-So many features that you probably won't find in any ROM.
+Many useful features that will blow your mind.
 All you can dream of and all you'll ever need.
 Just flash and enjoy...[/B][/SIZE][/INDENT]
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Features.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Features.png[/IMG]
 [HIDE][CODE]
 [SIZE="3"][SIZE="3"][B][U]General:[/B][/U][/SIZE]
 
-MD2 UI
+Material Design 2 UI
+Android R Style Screenrecord Dialog
 Rounded UI
 Inbuilt GApps (optional)
+Face Unlock
 Enhanced QS Battery Estimation
+Lockscreen Clocks
+Font Customisation
+Dark Theme Support for AOSP apps
+Notification LED Settings
 Pixel Lockscreen weather
-Substratum Support
-Compiled using SDCLANG
 Signature Spoofing
 Micro-G support
 Lockscreen charging animation
@@ -45,20 +49,19 @@ Bluetooth Battery Status Toggle
 [SIZE="3"][B][U]Quick Settings:[/B][/U][/SIZE]
 
 Quick Pulldown
+Smart Pulldown
 Battery Estimates Toggle
+Background Opacity
+Background Blur Configuration
+Header Image Configuration
 QS Customisations
   Rows/Column
   Tile Title
   Vibrate on Touch
-  Background Opacity
-  Header Image
 Brightness Slider Customization
   Brightness Slider On Bottom/Top/Hidden
   Auto Brightness Icon
   Brightness Control Buttons
-QS Elements Customization
-  Tile Tittle
-  Vibrate On Touch
 QS Footer Customization
   Settings Icon
   Running Services Icon
@@ -67,6 +70,7 @@ QS Footer Customization
 
 [SIZE="3"][B][U]Ambient Display:[/B][/U][/SIZE]
 
+Show/Hide Battery Level
 Ambient Options
   Always On
   Always On When Charging
@@ -74,7 +78,7 @@ Ambient Options
   Wakeup on New Music (Music Ticker)
   Sensor Based Screen Wakeup (Tilt/Hand Wave/Pocket)
   Double Tap for Ambient Display
-Battery Level at Bottom
+Ambient/Always On Display Brightness Configuration
 
 [SIZE="3"][B][U]Screen:[/B][/U][/SIZE]
 
@@ -86,9 +90,13 @@ Legacy App Scaling
 
 [SIZE="3"][B][U]Buttons:[/B][/U][/SIZE]
 
-Volume Rockers
-  Volume Steps
+Navigation
+  Nav Bar Toggle
+  System Navigation Type
+  Arrows Keys
+Volume Buttons
   Swap Keys
+  Volume Steps
   Long Press to Seek Tracks
   Keyboard Cursor Control
   Volume Rocker Wakeup
@@ -104,16 +112,13 @@ Power Button
   Screen-Off Torch
     Double Tap Power Button
     Long Press Power Button
-
-[SIZE="3"][B][U]Navigation bar:[/B][/U][/SIZE]
-
-Layout
-  Normal
-  Compact
-  Left-leaning
-  Right-leaning
-Invert Layout
-
+Back Gesture
+  Arrow Animation toggle
+  Long Swipe Type (Swipe and Hold/Swipe Edge to Edge)
+  Long Swipe Timeout
+  Long Left/Right Swipe Action
+  Haptic Feedback toggle
+ 
 [SIZE="3"][B][U]Gestures:[/B][/U][/SIZE]
 
 Jump To Camera
@@ -130,6 +135,10 @@ Media Cover Art Blur Level
 Music Visualiser
 Unlocking
   Pocket Detection
+Fingerprint
+  Screen Off FOD
+  Show Icon
+  Recognizing Animation
   FP Authentication Vibration
   FP error Vibration
 Elements Customisation
@@ -152,11 +161,7 @@ System
 Misc
   Kill App Button
   Noisy Notifications
-In-Call Vibration
-  On Connect
-  On Disconnect
-  On Call Waiting
-  
+
 [SIZE="3"][B][U]Animations:[/B][/U][/SIZE]
 
 Animation Duration
@@ -166,7 +171,7 @@ QS Tile Animation Customisation
 [SIZE="3"][B][U]Battery Saving:[/B][/U][/SIZE]
 
 Smart Pixels
-Suspen Actions
+Suspend Actions
 
 [SIZE="3"][B][U]Miscellaneous:[/B][/U][/SIZE]
 
@@ -174,13 +179,18 @@ Gaming Mode
 Wake Up on Charge
 Charging Animation
 Screenshot Type (Full/Partial)
+Adaptive Playback
+Playback Timeout (30sec/1min/2min/5min/10min)
 
 [SIZE="3"][B][U]Other Features:[/B][/U][/SIZE]
 
+Vibration & Haptics Customization
 LiveDisplay
+Notch Hide Settings
 Seperate ringtone for SIM1&2
 Screen Refresh Rate (For Supported Devices)
 ALways On Display
+Smart Charging
 Theming
   Styles and Wallpapers
   Dark Theme
@@ -207,32 +217,30 @@ Theming
   Compass
   Sound Search
   Compass Tile
-  
-  Language[/SIZE][/CODE][/HIDE]
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Screenshots.png[/IMG]
-[SIZE="3"][INDENT][url]https://photos.app.goo.gl/U8YDbDZCEVDQrSKU6[/url][/INDENT][/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Team.png[/IMG]
-[INDENT][SIZE="3"][B]Lead Developers:[/B]
+[/SIZE][/CODE][/HIDE]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Screenshots.png[/IMG]
+[SIZE="3"][INDENT][url]https://photos.app.goo.gl/WSbmYy7QeB6K9CSn6[/url][/INDENT][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Team.png[/IMG]
+[INDENT][SIZE="3"][B]Founder & Lead Developer:[/B]
 [URL="https://forum.xda-developers.com/member.php?u=7578917"]SKULSHADY (Anushek Prasal)[/URL]
-[URL="https://forum.xda-developers.com/member.php?u=4608158"]ZeNiXxX (Viktor Hermann)[/URL]
 
 [B]Support Team:[/B]
-[URL="https://forum.xda-developers.com/member.php?u=9762074"]DankBoi (Apoorva Kr. Srivastava)[/URL]
 [URL="https://forum.xda-developers.com/member.php?u=6040377"]theo.j22 (Tushar Jain)[/URL]
 [/SIZE][/INDENT]
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Donate.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Donate.png[/IMG]
 [INDENT][SIZE="3"]If you like our work then please consider donating.
-[B]PayPal:[/B] [URL]https://www.paypal.me/vhermann[/URL] | [URL]https://www.paypal.me/ANUSHEK[/URL]
+[B]PayPal:[/B] [URL]https://www.paypal.me/ANUSHEK[/URL]
 [B]UPI:[/B] anushekprasal@okhdfcbank[/SIZE][/INDENT]
+[B]Maintainer PayPal:[/B] [URL]https://www.paypal.me/ANUSHEK[/URL]
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Links.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Links.png[/IMG]
 [INDENT][SIZE="3"][B]ROM:[/B] [URL]https://sourceforge.net/projects/havoc-os/files/[/URL]
 [B]Recovery:[/B] [URL]https://twrp.me[/URL]
-[B]Changelog:[/B] [URL]http://bit.ly/Havoc_Changelog[/URL]
 [B]Open GApps:[/B] [URL]http://opengapps.org[/URL]
 [B]Magisk:[/B] [URL]https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445[/URL]
 [B]Telegram Support Group:[/B] [url]https://t.me/havocofficial[/url]
@@ -240,27 +248,22 @@ Theming
 [B]Discord Server:[/B] [url]https://discord.gg/YfhBCj4[/url][/SIZE][/INDENT]
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Installation.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Installation.png[/IMG]
 [INDENT][SIZE="3"][B]1.[/B] Download the ROM, GApps (Optional), Magisk (Optional) from the links above.
 [B]2.[/B] Wipe System, Data, Dalvik, Cache.
 [B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
 [B]4.[/B] Reboot and Enjoy.[/SIZE][/INDENT]
-[B] NOTE: These steps are only valid for A only devices.[/B]
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Credits.png[/IMG]
 [INDENT][SIZE="3"]LineageOS ([url]https://github.com/LineageOS[/url])
 Crdroid ([url]https://github.com/crdroidandroid[/url])
 Pixel Experience ([url]https://github.com/PixelExperience[/url])
 Nitrogen Project ([url]https://github.com/nitrogen-project[/url])
 Omnirom ([url]https://github.com/omnirom[/url])
-MSM-Xtended Team ([url]https://github.com/Project-Xtended[/url])
-Skydragon ([url]https://gitlab.com/HolyDragonProject[/url])
-Syberia Project ([url]https://github.com/syberia-project[/url])
 And all the other Developers, Testers, Donators and Users.[/SIZE][/INDENT]
 
 
-[IMG]https://raw.githubusercontent.com/Havoc-OS/android_vendor_extras/pie/XDA/Images/Source.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Source.png[/IMG]
 [INDENT][SIZE="3"][url]https://github.com/Havoc-OS[/url]
 [url]https://github.com/Havoc-Devices[/url][/SIZE][/INDENT]
-
